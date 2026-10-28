@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# macOS / R clutter
+.DS_Store
+.Rhistory
+
+# Separate clone of binaya07/ai-poker-server (has its own git history)
+ai-poker-server/
