@@ -6,9 +6,7 @@ import os
 import websockets
 
 from poker_ai import choose_action  # hi
-# hello there testing testing 123
 
-#hello
 
 PLAYER_ID = "csc4444-bot-j"
 PLAYER_NAME = "CSC 4444 Team J"
